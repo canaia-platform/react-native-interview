@@ -1,5 +1,7 @@
 # Welcome to your Canaia Interview
 
+https://github.com/user-attachments/assets/a8696a52-c8e1-40fa-a4ab-6f5ce9edb85d
+
 ## Get started
 
 1. Install dependencies
